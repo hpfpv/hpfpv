@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hpfpv
 - 👀 I’m interested in Cloud and DevOps Engineering
-- 🌱 I’m currently learning AWS, Azure, Python, CI/CD and IaC
+- 🌱 I’m currently learning AWS, Azure, Python, CI/CD, and IaC
 - 📫 Check me out on LinkedIn: https://linkedin.com/in/hpf
 
 <!---
